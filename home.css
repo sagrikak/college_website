@@ -1,0 +1,67 @@
+body {
+	background-color: GainsBoro;
+	width: 100%;
+	margin: 15px 15px 15px 15px;
+}
+iframe {
+	border: none;
+}
+.btn-link {
+	font-size: 20px;
+	font-family: Julius Sans One;
+	font-weight: bold;
+}
+.login-button{
+	font-size: 20px;
+	font-family: Lato;
+}
+.contactus {
+	font-size: 45px;
+	font-family: Lato;
+}
+.abouthead {
+	color: black !important;
+	font-size: 25px;
+	font-family: Merienda;
+	opacity: 50;
+}
+#logModal {
+	color: black;
+}
+.caption {
+	font-size: 20px;
+}
+.contactinfo {
+	font-family: Merienda;
+	font-size: 20px;
+}
+#logo {
+	float: left;
+	border-radius: 50%;
+	height: 92%;
+	width: 90%;
+	box-shadow: 10px 10px 10px black;
+}
+#name {
+	font-family: Cinzel;
+	font-size: 48px;
+	align-items: left;
+	text-shadow: 5px 5px 5px #000000;
+	font-weight: bold;
+}
+.about {
+	color: black;
+	font-size: 6px;
+	font-family: Dancing Script;
+}
+.container {
+	background-color: #333;
+	color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.6);
+}
+#map {
+	float: right;
+	height: 350px;
+	width: 500px;
+	border-radius: 5%;
+}
